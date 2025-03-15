@@ -1,0 +1,57 @@
+body{
+    background-image: url("./images/bg3.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #b49292;
+    transition: background-color 0.5s ease;
+    background-blend-mode: overlay;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.container{
+   
+    height: 600px;
+}
+
+h1{
+    color: #333;
+    font-size: 65px;
+}
+
+h2{
+    color: #333;
+    font-size: 45px;
+}
+
+.color_box{
+    width: 112px;
+    height: 112px;
+    margin: 26px auto;
+    border-radius: 10px;
+    border: 2px solid #ffffff;
+    background-color: white;
+}
+
+p{
+    color: #333;
+    font-size: 23px;
+}
+
+button{
+    margin-top: 10px;
+    padding: 15px 20px;
+    cursor: pointer;
+    border: none;
+    background-color:#343434 ;
+    color: white;
+    border-radius: 7px;
+    font-size: 23px;
+}
+
+button:hover{
+    background-color:#46474a;
+}
