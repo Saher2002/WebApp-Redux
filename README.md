@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+![image](https://github.com/user-attachments/assets/74949a56-4b09-4cb5-a4b2-6a7ada65322b)
+
+View Live Website here 👉 https://colorpicker-redux.netlify.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
